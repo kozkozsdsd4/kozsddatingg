@@ -1,0 +1,32 @@
+{
+  "category": "lifestyle",
+  "name": "Yaşam Tarzı & Alışkanlıklar",
+  "count": 25,
+  "traits": [
+    {"id": 36, "key": "alcohol_frequency", "type": "choice", "options": ["hiç", "ara sıra", "sosyal ortamda", "düzenli"]},
+    {"id": 37, "key": "smoking", "type": "choice", "options": ["hiç", "sosyal", "düzenli", "bıraktı"]},
+    {"id": 38, "key": "energy_drinks", "type": "choice", "options": ["hiç", "ara sıra", "sık sık"]},
+    {"id": 39, "key": "sleep_schedule", "type": "choice", "options": ["erken yatar/kalkar", "gece kuşu", "düzensiz"]},
+    {"id": 40, "key": "diet", "type": "choice", "options": ["her şey", "vejetaryen", "vegan", "pescatarian", "diyetteki"]},
+    {"id": 41, "key": "fitness_frequency", "type": "choice", "options": ["hiç", "ara sıra", "haftada 2-3", "her gün"]},
+    {"id": 42, "key": "cooking_skill", "type": "scale", "range": [1, 10], "label": "Yemek yapma becerisi"},
+    {"id": 43, "key": "cleanliness", "type": "scale", "range": [1, 10], "label": "Temizlik seviyesi"},
+    {"id": 44, "key": "organization", "type": "scale", "range": [1, 10], "label": "Düzenlilik"},
+    {"id": 45, "key": "morning_routine", "type": "boolean", "question": "Sabah rutini var mı?"},
+    {"id": 46, "key": "night_routine", "type": "boolean", "question": "Gece rutini var mı?"},
+    {"id": 47, "key": "meditation_yoga", "type": "boolean", "question": "Meditasyon/yoga yapar mı?"},
+    {"id": 48, "key": "social_media_activity", "type": "scale", "range": [1, 10], "label": "Sosyal medya kullanımı"},
+    {"id": 49, "key": "phone_addiction", "type": "scale", "range": [1, 10], "label": "Telefon bağımlılığı"},
+    {"id": 50, "key": "netflix_binger", "type": "boolean", "question": "Dizi maraton yapar mı?"},
+    {"id": 51, "key": "party_frequency", "type": "choice", "options": ["hiç", "ara sıra", "sık sık", "her hafta"]},
+    {"id": 52, "key": "club_goer", "type": "boolean", "question": "Gece kulübüne gider mi?"},
+    {"id": 53, "key": "bar_regular", "type": "boolean", "question": "Bara düzenli gider mi?"},
+    {"id": 54, "key": "caffeine_intake", "type": "choice", "options": ["hiç", "çay", "kahve", "enerji içeceği", "çok fazla"]},
+    {"id": 55, "key": "sweet_tooth", "type": "boolean", "question": "Tatlı düşkünü mü?"},
+    {"id": 56, "key": "fast_food", "type": "choice", "options": ["hiç", "ara sıra", "sık sık"]},
+    {"id": 57, "key": "shopping_frequency", "type": "choice", "options": ["nadiren", "ihtiyaç olunca", "sık sık", "shopaholic"]},
+    {"id": 58, "key": "spending_habits", "type": "choice", "options": ["tutucu", "dengeli", "savurgan"]},
+    {"id": 59, "key": "environmental_consciousness", "type": "scale", "range": [1, 10], "label": "Çevre bilinci"},
+    {"id": 60, "key": "pet_owner", "type": "choice", "options": ["hayır", "kedi", "köpek", "diğer", "çoklu"]}
+  ]
+}

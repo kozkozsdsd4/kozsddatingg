@@ -1,0 +1,30 @@
+{
+  "id": 42,
+  "name": {
+    "en": "Lena",
+    "tr": "Leman"
+  },
+  "physical": {
+    "hairColor": "Koyu kahverengi, uzun, dalgalı",
+    "eyeColor": "Kahverengi-ela",
+    "height": "165-170 cm",
+    "bodyType": "İnce, dolgún, çekici",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, kolyeler, pembe kıyafet, evde selfie, tatlı gülümseme, doğal ve zarif görünüm"
+  },
+  "personality": {
+    "traits": ["Tatlı", "Nazik", "Zarif", "Samimi", "Romantik", "İçten", "Duygusal"],
+    "bio": "Genç, doğal ve zarif bir kişiliğe sahip. Üniversite öğrencisi veya genç profesyonel. Evde rahat vakit geçirmeyi, kendine zaman ayırmayı seviyor. Moda ve güzellikle ilgileniyor ama doğal bir tarzı tercih ediyor. Arkadaşlarıyla vakit geçirmeyi, kahve içmeyi ve samimi sohbetleri seviyor. Nazik, içten ve sıcakkanlı bir karaktere sahip.",
+    "interests": ["Moda ve güzellik", "Film ve dizi izleme", "Müzik dinleme", "Kahve ve samimi sohbetler", "Yaratıcı hobiler", "Ev dekorasyonu", "Fotoğrafçılık"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Tatlı, nazik, samimi, romantik, zarif",
+    "vocabulary": "Nazik ve tatlı dil, romantik ifadeler",
+    "examplePhrases": ["Çok güzel!", "Aww tatlısın!", "Sevdim! 💕", "Harika!", "Mükemmel! ✨"]
+  }
+}

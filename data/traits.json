@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "totalTraits": 150,
+  "categories": [
+    {"id": "physical", "name": "Fiziksel & Görünüm", "count": 15},
+    {"id": "personality", "name": "Kişilik Özellikleri", "count": 20},
+    {"id": "lifestyle", "name": "Yaşam Tarzı & Alışkanlıklar", "count": 25},
+    {"id": "hobbies", "name": "Hobiler & İlgi Alanları", "count": 30},
+    {"id": "travel", "name": "Seyahat & Macera", "count": 20},
+    {"id": "career", "name": "Kariyer & Eğitim", "count": 15},
+    {"id": "relationships", "name": "İlişkiler & Değerler", "count": 25}
+  ]
+}

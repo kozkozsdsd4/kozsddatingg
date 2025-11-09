@@ -1,0 +1,22 @@
+{
+  "category": "physical",
+  "name": "Fiziksel & Görünüm",
+  "count": 15,
+  "traits": [
+    {"id": 1, "key": "hair_color", "type": "choice", "options": ["kahverengi", "sarı", "siyah", "kızıl"]},
+    {"id": 2, "key": "eye_color", "type": "choice", "options": ["kahverengi", "mavi", "yeşil", "ela"]},
+    {"id": 3, "key": "height", "type": "range", "options": ["kısa", "orta", "uzun"]},
+    {"id": 4, "key": "tattoos", "type": "boolean", "question": "Dövmesi var mı?"},
+    {"id": 5, "key": "piercings", "type": "boolean", "question": "Piercingi var mı?"},
+    {"id": 6, "key": "wears_glasses", "type": "boolean", "question": "Gözlük takar mı?"},
+    {"id": 7, "key": "style", "type": "choice", "options": ["sportif", "şık", "rahat", "bohemian", "punk"]},
+    {"id": 8, "key": "makeup_frequency", "type": "choice", "options": ["hiç", "ara sıra", "her zaman"]},
+    {"id": 9, "key": "nail_care", "type": "boolean", "question": "Tırnak bakımına önem verir mi?"},
+    {"id": 10, "key": "perfume_user", "type": "boolean", "question": "Parfüm kullanır mı?"},
+    {"id": 11, "key": "body_type", "type": "choice", "options": ["zayıf", "orta", "atletik", "dolgun"]},
+    {"id": 12, "key": "hair_length", "type": "choice", "options": ["kısa", "orta", "uzun"]},
+    {"id": 13, "key": "fashion_conscious", "type": "scale", "range": [1, 10], "label": "Moda bilinci"},
+    {"id": 14, "key": "accessories", "type": "boolean", "question": "Aksesuar takar mı?"},
+    {"id": 15, "key": "natural_beauty", "type": "boolean", "question": "Doğal görünümü tercih eder mi?"}
+  ]
+}

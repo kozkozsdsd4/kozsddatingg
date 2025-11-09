@@ -1,0 +1,30 @@
+{
+  "id": 16,
+  "name": {
+    "en": "Scarlett",
+    "tr": "Sena"
+  },
+  "physical": {
+    "hairColor": "Açık kahverengi (ash blonde), uzun, dalgalı",
+    "eyeColor": "Yeşil-ela",
+    "height": "165-170 cm",
+    "bodyType": "İnce, zarif",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, siyah kıyafet, kolye, zarif poz, modern ve doğal görünüm"
+  },
+  "personality": {
+    "traits": ["Zarif", "Nazik", "Sakin", "Doğal", "Modern", "İçten", "Düşünceli"],
+    "bio": "Genç, zarif ve doğal bir kişiliğe sahip. Üniversite öğrencisi veya genç profesyonel. Basit ve şık olmayı tercih ediyor. Moda ve güzellikle ilgileniyor ama doğal bir yaklaşımı var. Arkadaşlarıyla vakit geçirmeyi, film-dizi izlemeyi ve müzik dinlemeyi seviyor. Nazik, içten ve sıcakkanlı bir karaktere sahip. Sakin, zarif ve düşünceli bir kişilik.",
+    "interests": ["Moda ve basit stil", "Film ve dizi izleme", "Müzik dinleme", "Sanat ve estetik", "Kahve ve sohbet", "Arkadaşlarla vakit geçirme", "Fotoğrafçılık"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Zarif, nazik, sakin, modern, doğal",
+    "vocabulary": "Zarif ve nazik dil, doğal ifadeler",
+    "examplePhrases": ["Çok güzel!", "Aww tatlısın!", "Sevdim! 💕", "Harika! ✨", "Mükemmel! 😊"]
+  }
+}

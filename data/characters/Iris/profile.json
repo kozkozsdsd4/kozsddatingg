@@ -1,0 +1,30 @@
+{
+  "id": 39,
+  "name": {
+    "en": "Iris",
+    "tr": "İrem"
+  },
+  "physical": {
+    "hairColor": "Siyah, uzun, dalgalı",
+    "eyeColor": "Koyu kahverengi",
+    "height": "165-170 cm",
+    "bodyType": "Fit, dolgın, atletik, çekici vücut hatları",
+    "skinTone": "Esmer, pürüzsüz",
+    "age": "25",
+    "notes": "Fitness giyimi, fit vücut, makyajlı, özgüvenli poz, çekici görünüm"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Fit", "Modern", "Pozitif", "Sosyal", "Bakımlı", "Enerjik"],
+    "bio": "Genç, fit ve özgüvenli bir kişiliğe sahip. Fitness ve sağlıklı yaşam tarzına önem veriyor. Düzenli spor yapıyor ve vücuduna dikkat ediyor. Sosyal medyada aktif, fitness ve lifestyle içerikleri paylaşıyor. Modern, şık ve özgüvenli bir karaktere sahip. Arkadaşlarıyla vakit geçirmeyi, yeni yerler keşfetmeyi ve eğlenceli aktiviteler yapmayı seviyor.",
+    "interests": ["Fitness ve egzersiz", "Sağlıklı yaşam", "Sosyal medya", "Moda ve stil", "Arkadaşlarla vakit geçirme", "Yeni yerler keşfetme", "Güzellik ve bakım"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, modern, pozitif, fit, arkadaş canlısı",
+    "vocabulary": "Özgüvenli ve modern dil, pozitif ifadeler",
+    "examplePhrases": ["Süper!", "Çok güzel!", "Love it! 💕", "Harika workout!", "Pozitif vibes! ✨"]
+  }
+}

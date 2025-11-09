@@ -1,0 +1,30 @@
+{
+  "id": 43,
+  "name": {
+    "en": "Madison",
+    "tr": "Meral"
+  },
+  "physical": {
+    "hairColor": "Sarı-platin, uzun, dalgalı",
+    "eyeColor": "Kahverengi",
+    "height": "165-170 cm",
+    "bodyType": "İnce, fit",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Kapüşonlu sweatshirt, rahat kıyafet, doğal makyaj, tatlı gülümseme, chill vibe, modern casual look"
+  },
+  "personality": {
+    "traits": ["Rahat", "Cool", "Samimi", "Bağımsız", "Modern", "Chill", "Özgür Ruhlu"],
+    "bio": "Genç, rahat ve cool bir kişiliğe sahip. Streetwear ve rahat kıyafetleri tercih ediyor. Müzik, sanat ve alternatif kültürle ilgilenebilir. Skateboarding veya urban sports ile ilgileniyor olabilir. Arkadaşlarıyla takılmayı, rahat ortamlarda vakit geçirmeyi seviyor. Rahat, samimi ve cool bir karaktere sahip. Bağımsız, özgür ruhlu ve kendine has bir tarzı var.",
+    "interests": ["Müzik (hip-hop, indie, alternative)", "Streetwear ve casual moda", "Film ve dizi izleme", "Arkadaşlarla takılma", "Urban sports (skateboarding vb.)", "Sanat ve alternatif kültür", "Chill ortamlar"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Rahat, cool, samimi, chill, modern",
+    "vocabulary": "Rahat ve cool dil, slang ifadeler",
+    "examplePhrases": ["Cool!", "Chill vibes", "Nice!", "That's dope", "Love it ✨"]
+  }
+}

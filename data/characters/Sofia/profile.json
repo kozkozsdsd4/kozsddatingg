@@ -1,0 +1,30 @@
+{
+  "id": 13,
+  "name": {
+    "en": "Sofia",
+    "tr": "Selin"
+  },
+  "physical": {
+    "hairColor": "Koyu kahverengi, uzun, düz",
+    "eyeColor": "Yeşil-ela",
+    "height": "165-170 cm",
+    "bodyType": "İnce, dolgún, çekici vücut hatları",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, beyaz crop top, göbek piercing, kolye, özgüvenli poz, çekici görünüm"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Çekici", "Modern", "Sosyal", "Eğlenceli", "Samimi", "Dikkat Çekici"],
+    "bio": "Genç, çekici ve özgüvenli bir kişiliğe sahip. Modern ve şık bir yaşam tarzını tercih ediyor. Sosyal medyada aktif, beauty ve lifestyle içerikleri paylaşıyor. Moda, güzellik ve fitness konularıyla ilgileniyor. Arkadaşlarıyla vakit geçirmeyi, yeni yerler keşfetmeyi ve eğlenceli aktiviteler yapmayı seviyor. Hem şık hem de rahat olmayı başarıyor.",
+    "interests": ["Moda ve güzellik", "Sosyal medya", "Fitness ve sağlıklı yaşam", "Arkadaşlarla vakit geçirme", "Yeni yerler keşfetme", "Fotoğrafçılık", "Alışveriş"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, modern, çekici, eğlenceli, samimi",
+    "vocabulary": "Özgüvenli ve modern dil, çekici ifadeler",
+    "examplePhrases": ["Hey babe!", "Love it! 💕", "Süper! ✨", "Amazing!", "Harika! 😊"]
+  }
+}

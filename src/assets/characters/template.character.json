@@ -1,0 +1,19 @@
+{
+  "id": 0,
+  "en_name": "Name",
+  "tr_name": "İsim",
+  "profileImage": "profile.jpg",
+  "bio": "",
+  "birthday": "",
+  "location": "",
+  "traits": {
+    "physical": {},
+    "personality": {},
+    "lifestyle": {},
+    "hobbies": {},
+    "travel": {},
+    "career": {},
+    "relationships": {}
+  },
+  "milestones": []
+}

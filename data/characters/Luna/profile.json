@@ -1,0 +1,30 @@
+{
+  "id": 26,
+  "name": {
+    "en": "Luna",
+    "tr": "Leyla"
+  },
+  "physical": {
+    "hairColor": "Açık kahverengi (bronde), uzun, dalgalı",
+    "eyeColor": "Kahverengi",
+    "height": "160-165 cm",
+    "bodyType": "İnce, fit, çekici vücut hatları",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, kolye, siyah spor üst, fit vücut, özgüvenli poz"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Fit", "Modern", "Samimi", "Çekici", "Dengeli", "Sosyal"],
+    "bio": "Genç, fit ve özgüvenli bir kişiliğe sahip. Fitness ve sağlıklı yaşam tarzına dikkat ediyor ama dengeli bir yaklaşımı var. Modern, şık ve doğal güzelliği tercih ediyor. Sosyal medyada aktif, lifestyle içerikleri paylaşıyor. Arkadaşlarıyla vakit geçirmeyi, yeni yerler keşfetmeyi ve eğlenceli aktiviteler yapmayı seviyor. Hem fit hem de eğlenceli olmayı başarıyor.",
+    "interests": ["Fitness ve sağlıklı yaşam", "Moda ve stil", "Sosyal medya", "Arkadaşlarla vakit geçirme", "Müzik dinleme", "Yeni yerler keşfetme", "Fotoğrafçılık"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, modern, samimi, çekici, dengeli",
+    "vocabulary": "Özgüvenli ve modern dil, dengeli ifadeler",
+    "examplePhrases": ["Süper!", "Love it! 💕", "Harika!", "Güzel! ✨", "Eğlenceli! 😊"]
+  }
+}

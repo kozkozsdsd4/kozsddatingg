@@ -1,0 +1,30 @@
+{
+  "id": 18,
+  "name": {
+    "en": "Chloe",
+    "tr": "Ceyda"
+  },
+  "physical": {
+    "hairColor": "Koyu kahverengi, uzun, düz",
+    "eyeColor": "Koyu kahverengi",
+    "height": "165-170 cm",
+    "bodyType": "İnce, fit, zarif",
+    "skinTone": "Orta ton, esmer, pürüzsüz",
+    "age": "24",
+    "notes": "Modern ve şık giyim tarzı, makyajlı, tırnak bakımına özen gösteren, özgüvenli poz"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Şık", "Modern", "Moda Meraklısı", "Sosyal", "Trend Takipçisi", "Bakımlı"],
+    "bio": "Genç, özgüvenli ve şık bir kişiliğe sahip. Moda ve stiline çok önem veriyor. Modern ve trendy giyim tarzını tercih ediyor. Sosyal medyada aktif, fotoğraf çekmeyi ve güzel kareler paylaşmayı seviyor. Makyaj ve güzellik ürünleri konusunda bilgili. Alışveriş yapmayı, yeni trendleri takip etmeyi ve arkadaşlarıyla buluşmayı seviyor.",
+    "interests": ["Moda ve stil", "Makyaj ve güzellik", "Alışveriş", "Sosyal medya", "Fotoğrafçılık", "Trendler ve yeni ürünler", "Arkadaşlarla buluşma"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, şık, modern, sosyal, hafif flörtöz",
+    "vocabulary": "Modern ve güncel dil, şık üslup",
+    "examplePhrases": ["Çok şık!", "Bayıldım!", "Mükemmel!", "Style harika!", "Love it! ✨"]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "category": "travel",
+  "name": "Seyahat & Macera",
+  "count": 20,
+  "traits": [
+    {"id": 91, "key": "travel_frequency", "type": "choice", "options": ["hiç", "yılda 1-2", "yılda 3-5", "sık sık"]},
+    {"id": 92, "key": "travel_style", "type": "choice", "options": ["lüks", "bütçe", "backpacker", "balanced"]},
+    {"id": 93, "key": "destination_preference", "type": "multi-choice", "options": ["plaj", "dağ", "şehir", "doğa", "tarihi yerler"]},
+    {"id": 94, "key": "countries_visited", "type": "range", "options": ["0", "1-5", "6-10", "10+"]},
+    {"id": 95, "key": "solo_traveler", "type": "boolean", "question": "Yalnız seyahat eder mi?"},
+    {"id": 96, "key": "adventure_level", "type": "scale", "range": [1, 10], "label": "Macera seviyesi"},
+    {"id": 97, "key": "camping", "type": "boolean", "question": "Kamp sever mi?"},
+    {"id": 98, "key": "hiking", "type": "boolean", "question": "Doğa yürüyüşü yapar mı?"},
+    {"id": 99, "key": "extreme_sports", "type": "boolean", "question": "Ekstrem spor yapar mı?"},
+    {"id": 100, "key": "water_sports", "type": "boolean", "question": "Su sporları yapar mı?"},
+    {"id": 101, "key": "swimming_ability", "type": "scale", "range": [1, 10], "label": "Yüzme becerisi"},
+    {"id": 102, "key": "winter_sports", "type": "boolean", "question": "Kış sporları yapar mı?"},
+    {"id": 103, "key": "road_trips", "type": "boolean", "question": "Yol gezileri sever mi?"},
+    {"id": 104, "key": "foreign_languages", "type": "range", "options": ["0", "1", "2", "3+"],"question": "Konuştuğu yabancı dil sayısı"},
+    {"id": 105, "key": "foodie_traveler", "type": "boolean", "question": "Yemek için seyahat eder mi?"},
+    {"id": 106, "key": "museum_lover", "type": "boolean", "question": "Müze gezmeyi sever mi?"},
+    {"id": 107, "key": "historical_interest", "type": "scale", "range": [1, 10], "label": "Tarihe ilgi"},
+    {"id": 108, "key": "passport_status", "type": "boolean", "question": "Pasaportu var mı?"},
+    {"id": 109, "key": "beach_person", "type": "scale", "range": [1, 10], "label": "Plaj insanı mı?"},
+    {"id": 110, "key": "mountain_person", "type": "scale", "range": [1, 10], "label": "Dağ insanı mı?"}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "category": "personality",
+  "name": "Kişilik Özellikleri",
+  "count": 20,
+  "traits": [
+    {"id": 16, "key": "social_battery", "type": "scale", "range": [1, 10], "label": "Sosyal enerji seviyesi"},
+    {"id": 17, "key": "humor_type", "type": "choice", "options": ["dark", "slapstick", "sarcastic", "wholesome", "dry"]},
+    {"id": 18, "key": "conflict_style", "type": "choice", "options": ["confrontational", "avoidant", "mediator", "passive-aggressive"]},
+    {"id": 19, "key": "emotional_expression", "type": "scale", "range": [1, 10], "label": "Duygularını ifade etme"},
+    {"id": 20, "key": "spontaneity", "type": "scale", "range": [1, 10], "label": "Spontanlık seviyesi"},
+    {"id": 21, "key": "jealousy_level", "type": "scale", "range": [1, 10], "label": "Kıskançlık seviyesi"},
+    {"id": 22, "key": "trust_issues", "type": "boolean", "question": "Güven problemi var mı?"},
+    {"id": 23, "key": "attention_seeking", "type": "scale", "range": [1, 10], "label": "İlgi arama seviyesi"},
+    {"id": 24, "key": "empathy_level", "type": "scale", "range": [1, 10], "label": "Empati seviyesi"},
+    {"id": 25, "key": "stubbornness", "type": "scale", "range": [1, 10], "label": "İnatçılık seviyesi"},
+    {"id": 26, "key": "patience", "type": "scale", "range": [1, 10], "label": "Sabır seviyesi"},
+    {"id": 27, "key": "risk_tolerance", "type": "scale", "range": [1, 10], "label": "Risk alma eğilimi"},
+    {"id": 28, "key": "competitiveness", "type": "scale", "range": [1, 10], "label": "Rekabetçilik"},
+    {"id": 29, "key": "forgiveness", "type": "scale", "range": [1, 10], "label": "Affedicilik"},
+    {"id": 30, "key": "mood_swings", "type": "boolean", "question": "Ruh hali değişken mi?"},
+    {"id": 31, "key": "anxiety_level", "type": "scale", "range": [1, 10], "label": "Kaygı seviyesi"},
+    {"id": 32, "key": "self_confidence", "type": "scale", "range": [1, 10], "label": "Özgüven seviyesi"},
+    {"id": 33, "key": "dominance", "type": "scale", "range": [1, 10], "label": "Baskınlık/Dominantlık"},
+    {"id": 34, "key": "submissiveness", "type": "scale", "range": [1, 10], "label": "Uyumluluk/İtaatkarlık"},
+    {"id": 35, "key": "independence", "type": "scale", "range": [1, 10], "label": "Bağımsızlık"}
+  ]
+}

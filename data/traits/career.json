@@ -1,0 +1,22 @@
+{
+  "category": "career",
+  "name": "Kariyer & Eğitim",
+  "count": 15,
+  "traits": [
+    {"id": 111, "key": "education_level", "type": "choice", "options": ["lise", "önlisans", "lisans", "yüksek lisans", "doktora"]},
+    {"id": 112, "key": "career_field", "type": "choice", "options": ["teknoloji", "sağlık", "eğitim", "sanat", "iş", "hukuk", "mühendislik", "diğer"]},
+    {"id": 113, "key": "work_type", "type": "choice", "options": ["tam zamanlı", "yarı zamanlı", "freelance", "girişimci", "öğrenci", "işsiz"]},
+    {"id": 114, "key": "career_ambition", "type": "scale", "range": [1, 10], "label": "Kariyer hırsı"},
+    {"id": 115, "key": "workaholic", "type": "scale", "range": [1, 10], "label": "İşkolik seviyesi"},
+    {"id": 116, "key": "work_life_balance", "type": "scale", "range": [1, 10], "label": "İş-yaşam dengesi"},
+    {"id": 117, "key": "leadership", "type": "scale", "range": [1, 10], "label": "Liderlik vasfı"},
+    {"id": 118, "key": "team_player", "type": "scale", "range": [1, 10], "label": "Takım oyuncusu"},
+    {"id": 119, "key": "income_level", "type": "choice", "options": ["düşük", "orta", "iyi", "yüksek"]},
+    {"id": 120, "key": "job_satisfaction", "type": "scale", "range": [1, 10], "label": "İş tatmini"},
+    {"id": 121, "key": "side_hustle", "type": "boolean", "question": "Yan işi var mı?"},
+    {"id": 122, "key": "lifelong_learner", "type": "boolean", "question": "Sürekli öğrenir mi?"},
+    {"id": 123, "key": "online_courses", "type": "boolean", "question": "Online kurs alır mı?"},
+    {"id": 124, "key": "professional_network", "type": "scale", "range": [1, 10], "label": "Profesyonel ağ"},
+    {"id": 125, "key": "future_goals", "type": "boolean", "question": "Net kariyer hedefleri var mı?"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "datingsim-core",
+  "version": "0.1.0",
+  "description": "AI-powered local dating simulator core (scaffold)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "gen:characters": "node scripts/gen-characters.js"
+  },
+  "author": "3kozsd",
+  "license": "MIT",
+  "dependencies": {}
+}

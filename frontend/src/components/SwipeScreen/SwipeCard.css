@@ -1,0 +1,84 @@
+.swipe-card {
+  width: 100%;
+  max-width: 400px;
+  height: 600px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+  position: relative;
+}
+
+.swipe-card.swipe-left {
+  transform: translateX(-200%) rotate(-30deg);
+}
+
+.swipe-card.swipe-right {
+  transform: translateX(200%) rotate(30deg);
+}
+
+.card-image {
+  height: 65%;
+  overflow: hidden;
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-info {
+  padding: 20px;
+  height: 35%;
+  overflow-y: auto;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.status {
+  font-size: 18px;
+}
+
+.location {
+  color: #666;
+  margin: 5px 0;
+}
+
+.bio {
+  margin: 10px 0;
+  line-height: 1.5;
+}
+
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 15px 0;
+}
+
+.interest-tag {
+  padding: 6px 12px;
+  background: #f0f0f0;
+  border-radius: 15px;
+  font-size: 14px;
+}
+
+.discovery {
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+  color: #666;
+  font-size: 14px;
+}

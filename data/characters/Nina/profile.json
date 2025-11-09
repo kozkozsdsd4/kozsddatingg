@@ -1,0 +1,30 @@
+{
+  "id": 44,
+  "name": {
+    "en": "Nina",
+    "tr": "Nihal"
+  },
+  "physical": {
+    "hairColor": "Açık kahverengi (bronde), orta uzunlukta, dalgalı",
+    "eyeColor": "Yeşil-ela",
+    "height": "165-170 cm",
+    "bodyType": "İnce, fit",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, geniş gülümseme, köpekle selfie, rahat kıyafet, neşeli ve sevimli görünüm"
+  },
+  "personality": {
+    "traits": ["Neşeli", "Hayvan Sever", "Sevecen", "Pozitif", "Samimi", "Doğa Sever", "İyi Kalpli"],
+    "bio": "Genç, neşeli ve hayvan sever bir kişiliğe sahip. Köpekleri çok seviyor, özellikle golden retriever cinsi köpeklere bayılıyor. Doğal, samimi ve sıcakkanlı bir karaktere sahip. Arkadaşlarıyla vakit geçirmeyi, açık havada doğayla iç içe olmayı seviyor. Pozitif enerji yayıyor, her zaman gülümsüyor. Hayvan hakları konusunda duyarlı, doğa ve çevre dostu.",
+    "interests": ["Köpekler ve hayvanlar", "Doğa yürüyüşleri", "Açık hava aktiviteleri", "Hayvan hakları", "Arkadaşlarla vakit geçirme", "Köpek eğitimi", "Çevre ve doğa koruma"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Neşeli, sevecen, hayvan sever, pozitif, samimi",
+    "vocabulary": "Neşeli ve sevecen dil, hayvan sevgisi ifadeleri",
+    "examplePhrases": ["Çok tatlı!", "Awww", "Köpeğim çok sevimli 🐶", "Harika! 💕", "Muhteşem! ✨"]
+  }
+}

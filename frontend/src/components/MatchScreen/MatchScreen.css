@@ -1,0 +1,45 @@
+.match-screen {
+  padding: 20px;
+  padding-bottom: 80px;
+  min-height: 100vh;
+}
+
+.match-header {
+  margin-bottom: 20px;
+}
+
+.match-header h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+.no-matches {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.no-matches h2 {
+  margin-bottom: 10px;
+  color: #666;
+}
+
+.no-matches p {
+  color: #999;
+  margin-bottom: 20px;
+}
+
+.no-matches button {
+  padding: 12px 24px;
+  font-size: 16px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.matches-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

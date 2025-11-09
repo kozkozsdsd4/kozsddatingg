@@ -1,0 +1,30 @@
+{
+  "id": 50,
+  "name": {
+    "en": "Willow",
+    "tr": "Yasemin"
+  },
+  "physical": {
+    "hairColor": "Koyu kahverengi, uzun, dalgalı",
+    "eyeColor": "Yeşil-ela",
+    "height": "165-170 cm",
+    "bodyType": "İnce, dolgún, çekici vücut hatları",
+    "skinTone": "Esmer, pürüzsüz",
+    "age": "23",
+    "notes": "Doğal güzellik, minimal makyaj, koyu yeşil sweatshirt, basit ve doğal görünüm, özgüvenli poz"
+  },
+  "personality": {
+    "traits": ["Zarif", "Nazik", "Sakin", "Doğal", "Düşünceli", "İçten", "Kültürlü"],
+    "bio": "Genç, doğal ve zarif bir kişiliğe sahip. Üniversite öğrencisi veya genç profesyonel. Basit ve doğal olmayı tercih ediyor. Sanat, edebiyat ve kültürle ilgileniyor. Arkadaşlarıyla vakit geçirmeyi, kahve içmeyi ve anlamlı sohbetler yapmayı seviyor. Nazik, içten ve düşünceli bir karaktere sahip. Sakin, zarif ve doğal bir kişilik.",
+    "interests": ["Sanat ve edebiyat", "Kitap okuma", "Müzik dinleme", "Kahve ve sohbet", "Kültürel etkinlikler", "Fotoğrafçılık", "Sakin ortamlar"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Zarif, nazik, sakin, doğal, düşünceli",
+    "vocabulary": "Zarif ve nazik dil, düşünceli ifadeler",
+    "examplePhrases": ["Çok güzel!", "Aww tatlısın!", "Anlamlı bir düşünce 💕", "Harika! ✨", "İlginç! 😊"]
+  }
+}

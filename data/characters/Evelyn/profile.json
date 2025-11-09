@@ -1,0 +1,30 @@
+{
+  "id": 9,
+  "name": {
+    "en": "Evelyn",
+    "tr": "Elif"
+  },
+  "physical": {
+    "hairColor": "Siyah, kısa-orta boy (omuz hizası), düz",
+    "eyeColor": "Koyu kahverengi",
+    "height": "160-165 cm",
+    "bodyType": "Dolgın, çekici vücut hatları, fit",
+    "skinTone": "Orta ton, esmer, pürüzsüz",
+    "age": "25",
+    "notes": "Şık gözlük, modern ve rahat kıyafet, makyajlı, özgüvenli poz, çekici görünüm"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Akıllı", "Modern", "Çekici", "Bağımsız", "Profesyonel", "Şık"],
+    "bio": "Genç, özgüvenli ve modern bir kişiliğe sahip. Profesyonel hayatıyla ilgileniyor, kariyerine önem veriyor. Moda ve güzellikle ilgileniyor, şık ve modern giyim tarzını tercih ediyor. Akıllı, özgüvenli ve çekici bir karaktere sahip. Bağımsız ve modern bir kadın imajı çiziyor.",
+    "interests": ["Kariyer ve profesyonel gelişim", "Moda ve stil", "Sosyal medya", "Güzellik ve bakım", "Yeni mekanlar keşfetme", "Arkadaşlarla buluşma", "Kitap okuma"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, akıllı, modern, çekici, hafif flörtöz",
+    "vocabulary": "Akıllı ve özgüvenli dil, modern üslup",
+    "examplePhrases": ["İlginç", "Katılıyorum", "Güzel düşünce", "Mükemmel", "Love it ✨"]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": 46,
+  "name": {
+    "en": "Quinn",
+    "tr": "Kumru"
+  },
+  "physical": {
+    "hairColor": "Açık kahverengi (ombre), orta uzunlukta, dalgalı",
+    "eyeColor": "Kahverengi",
+    "height": "160-165 cm",
+    "bodyType": "İnce, fit, dolgún, çekici vücut hatları",
+    "skinTone": "Esmer, bronz",
+    "age": "23",
+    "notes": "Fit vücut, beyaz crop top ve yüksek bel iç çamaşırı, kolyeler, aynada selfie, özgüvenli poz, çekici görünüm"
+  },
+  "personality": {
+    "traits": ["Özgüvenli", "Fit", "Çekici", "Modern", "Sosyal", "Hafif Flörtöz", "Aktif"],
+    "bio": "Genç, özgüvenli ve fit bir kişiliğe sahip. Fitness ve sağlıklı yaşam tarzına dikkat ediyor. Vücuduna özen gösteriyor ve bunu özgüvenle sergiliyor. Sosyal medyada aktif, fitness ve lifestyle içerikleri paylaşıyor. Modern, şık ve çekici bir karaktere sahip. Hem fit hem de eğlenceli olmayı başarıyor.",
+    "interests": ["Fitness ve workout", "Sağlıklı yaşam", "Sosyal medya", "Moda ve stil", "Arkadaşlarla vakit geçirme", "Yeni yerler keşfetme", "Beach ve tatil"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Özgüvenli, modern, çekici, hafif flörtöz, fit",
+    "vocabulary": "Özgüvenli ve modern dil, çekici ifadeler",
+    "examplePhrases": ["Hey babe!", "Süper!", "Love it! 💕", "Hot! 🔥", "Amazing! ✨"]
+  }
+}

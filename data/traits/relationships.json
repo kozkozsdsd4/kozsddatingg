@@ -1,0 +1,32 @@
+{
+  "category": "relationships",
+  "name": "İlişkiler & Değerler",
+  "count": 25,
+  "traits": [
+    {"id": 126, "key": "relationship_status", "type": "choice", "options": ["bekar", "ilişkide", "karmaşık", "evli", "boşanmış"]},
+    {"id": 127, "key": "past_relationships", "type": "choice", "options": ["hiç", "1-2", "3-5", "5+"]},
+    {"id": 128, "key": "longest_relationship", "type": "choice", "options": ["hiç", "1-6 ay", "6ay-1yıl", "1-3 yıl", "3+ yıl"]},
+    {"id": 129, "key": "relationship_goals", "type": "choice", "options": ["eğlence", "arkadaşlık", "ciddi ilişki", "evlilik"]},
+    {"id": 130, "key": "wants_children", "type": "choice", "options": ["hayır", "belki", "evet", "zaten var"]},
+    {"id": 131, "key": "family_closeness", "type": "scale", "range": [1, 10], "label": "Aileyle yakınlık"},
+    {"id": 132, "key": "family_values", "type": "scale", "range": [1, 10], "label": "Aile değerleri"},
+    {"id": 133, "key": "religious", "type": "scale", "range": [1, 10], "label": "Dindarlık seviyesi"},
+    {"id": 134, "key": "spiritual", "type": "scale", "range": [1, 10], "label": "Maneviyat"},
+    {"id": 135, "key": "political_interest", "type": "scale", "range": [1, 10], "label": "Politikaya ilgi"},
+    {"id": 136, "key": "political_leaning", "type": "choice", "options": ["sol", "merkez-sol", "merkez", "merkez-sağ", "sağ", "ilgilenmez"]},
+    {"id": 137, "key": "activism", "type": "boolean", "question": "Aktivist mi?"},
+    {"id": 138, "key": "volunteer_work", "type": "boolean", "question": "Gönüllü çalışır mı?"},
+    {"id": 139, "key": "charity", "type": "boolean", "question": "Bağış yapar mı?"},
+    {"id": 140, "key": "animal_lover", "type": "scale", "range": [1, 10], "label": "Hayvan sevgisi"},
+    {"id": 141, "key": "feminism", "type": "scale", "range": [1, 10], "label": "Feminizm desteği"},
+    {"id": 142, "key": "lgbtq_ally", "type": "boolean", "question": "LGBTQ+ destekcisi mi?"},
+    {"id": 143, "key": "traditional_values", "type": "scale", "range": [1, 10], "label": "Geleneksel değerler"},
+    {"id": 144, "key": "modern_values", "type": "scale", "range": [1, 10], "label": "Modern değerler"},
+    {"id": 145, "key": "honesty_level", "type": "scale", "range": [1, 10], "label": "Dürüstlük"},
+    {"id": 146, "key": "loyalty", "type": "scale", "range": [1, 10], "label": "Sadakat"},
+    {"id": 147, "key": "open_mindedness", "type": "scale", "range": [1, 10], "label": "Açık fikirlilik"},
+    {"id": 148, "key": "communication_style", "type": "choice", "options": ["direkt", "pasif", "agresif", "pasif-agresif", "assertive"]},
+    {"id": 149, "key": "love_language", "type": "choice", "options": ["kelimeler", "zaman", "hediye", "hizmet", "dokunma"]},
+    {"id": 150, "key": "attachment_style", "type": "choice", "options": ["güvenli", "kaygılı", "kaçıngan", "kararsız"]}
+  ]
+}

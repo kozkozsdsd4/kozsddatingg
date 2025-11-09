@@ -1,0 +1,47 @@
+.swipe-controls {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+}
+
+.control-btn {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.control-btn:hover {
+  transform: scale(1.1);
+}
+
+.control-btn:active {
+  transform: scale(0.95);
+}
+
+.nope-btn {
+  background: white;
+  color: #ff4458;
+}
+
+.nope-btn:hover {
+  background: #ff4458;
+  color: white;
+}
+
+.like-btn {
+  background: white;
+  color: #00d47e;
+}
+
+.like-btn:hover {
+  background: #00d47e;
+  color: white;
+}

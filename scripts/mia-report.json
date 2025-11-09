@@ -1,0 +1,682 @@
+{
+  "timestamp": "2025-11-06T12:13:13.650Z",
+  "summary": {
+    "total": 51,
+    "analyzed": 51,
+    "missing": 0,
+    "error": 0,
+    "totalDialogs": 41463,
+    "totalValid": 22149,
+    "totalIssues": {
+      "critical": 0,
+      "high": 116,
+      "medium": 48,
+      "low": 19150
+    }
+  },
+  "characters": [
+    {
+      "character": "Abigail",
+      "characterName": "Abigail",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 0,
+        "low": 377
+      }
+    },
+    {
+      "character": "Amelia",
+      "characterName": "Amelia",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Aria",
+      "characterName": "Aria",
+      "status": "analyzed",
+      "score": "52.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 377
+      }
+    },
+    {
+      "character": "Audrey",
+      "characterName": "Audrey",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 377
+      }
+    },
+    {
+      "character": "Aurora",
+      "characterName": "Aurora",
+      "status": "analyzed",
+      "score": "53.1",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 373
+      }
+    },
+    {
+      "character": "Avery",
+      "characterName": "Avery",
+      "status": "analyzed",
+      "score": "53.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 372
+      }
+    },
+    {
+      "character": "Bella",
+      "characterName": "Bella",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Charlotte",
+      "characterName": "Charlotte",
+      "status": "analyzed",
+      "score": "53.0",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Chloe",
+      "characterName": "Chloe",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Claire",
+      "characterName": "Claire",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Diana",
+      "characterName": "Diana",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Elizabeth",
+      "characterName": "Elizabeth",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Ella",
+      "characterName": "Ella",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Emily",
+      "characterName": "Emily",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Emma",
+      "characterName": "Emma",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Eva",
+      "characterName": "Eva",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Evelyn",
+      "characterName": "Evelyn",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Faith",
+      "characterName": "Faith",
+      "status": "analyzed",
+      "score": "53.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 372
+      }
+    },
+    {
+      "character": "Gabriella",
+      "characterName": "Gabriella",
+      "status": "analyzed",
+      "score": "53.0",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Grace",
+      "characterName": "Grace",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Hannah",
+      "characterName": "Hannah",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Harper",
+      "characterName": "Harper",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Iris",
+      "characterName": "Iris",
+      "status": "analyzed",
+      "score": "52.4",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 376
+      }
+    },
+    {
+      "character": "Isabella",
+      "characterName": "Isabella",
+      "status": "analyzed",
+      "score": "53.0",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Jade",
+      "characterName": "Jade",
+      "status": "analyzed",
+      "score": "52.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 377
+      }
+    },
+    {
+      "character": "Katherine",
+      "characterName": "Katherine",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Lena",
+      "characterName": "Lena",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Lily",
+      "characterName": "Lily",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Lucy",
+      "characterName": "Lucy",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Luna",
+      "characterName": "Luna",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Madison",
+      "characterName": "Madison",
+      "status": "analyzed",
+      "score": "53.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 372
+      }
+    },
+    {
+      "character": "Maya",
+      "characterName": "Maya",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Mia",
+      "characterName": "Mia",
+      "status": "analyzed",
+      "score": "52.3",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 377
+      }
+    },
+    {
+      "character": "Natalie",
+      "characterName": "Natalie",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Nina",
+      "characterName": "Nina",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Olivia",
+      "characterName": "Olivia",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Ornek",
+      "characterName": "Example",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 0,
+        "low": 377
+      }
+    },
+    {
+      "character": "Paige",
+      "characterName": "Paige",
+      "status": "analyzed",
+      "score": "53.0",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Penelope",
+      "characterName": "Penelope",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Quinn",
+      "characterName": "Quinn",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Rachel",
+      "characterName": "Rachel",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Riley",
+      "characterName": "Riley",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 377
+      }
+    },
+    {
+      "character": "Samantha",
+      "characterName": "Samantha",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Scarlett",
+      "characterName": "Scarlett",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Sienna",
+      "characterName": "Sienna",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Sofia",
+      "characterName": "Sofia",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Stella",
+      "characterName": "Stella",
+      "status": "analyzed",
+      "score": "53.0",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 374
+      }
+    },
+    {
+      "character": "Victoria",
+      "characterName": "Victoria",
+      "status": "analyzed",
+      "score": "52.9",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 375
+      }
+    },
+    {
+      "character": "Violet",
+      "characterName": "Violet",
+      "status": "analyzed",
+      "score": "52.5",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 1,
+        "low": 378
+      }
+    },
+    {
+      "character": "Willow",
+      "characterName": "Willow",
+      "status": "analyzed",
+      "score": "52.8",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 2,
+        "medium": 0,
+        "low": 378
+      }
+    },
+    {
+      "character": "Zoe",
+      "characterName": "Zoe",
+      "status": "analyzed",
+      "score": "52.6",
+      "dialogs": 813,
+      "issues": {
+        "critical": 0,
+        "high": 3,
+        "medium": 1,
+        "low": 374
+      }
+    }
+  ]
+}

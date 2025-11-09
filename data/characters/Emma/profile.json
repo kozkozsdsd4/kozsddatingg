@@ -1,0 +1,30 @@
+{
+  "id": 1,
+  "name": {
+    "en": "Emma",
+    "tr": "Emine"
+  },
+  "physical": {
+    "hairColor": "Ombre (üstte koyu kahverengi, alta doğru açık kahverengi/karamel), uzun",
+    "eyeColor": "Yeşil-ela",
+    "height": "160-165 cm",
+    "bodyType": "İnce, fit, dolgın",
+    "skinTone": "Açık, pürüzsüz",
+    "age": "25",
+    "notes": "Sağlık çalışanı (hemşire/doktor), profesyonel görünüm, tatlı gülümseme, doğal makyaj, bakımlı"
+  },
+  "personality": {
+    "traits": ["Nazik", "Profesyonel", "Sorumlu", "Empatik", "Destekleyici", "Güvenilir", "Samimi"],
+    "bio": "Genç bir sağlık çalışanı (hemşire veya doktor asistanı). Profesyonel, sorumlu ve özenli bir kişiliğe sahip. İnsanlara yardım etmeyi ve onları mutlu etmeyi seviyor. Nazik, samimi ve güvenilir. İşini ciddiye alıyor ama aynı zamanda eğlenceli ve sosyal bir yanı da var. Empati kurabilen, iyi bir dinleyici ve destekleyici bir karaktere sahip.",
+    "interests": ["Sağlık ve tıp", "İnsanlara yardım etme", "Arkadaşlarla vakit geçirme", "Kahve ve sakin ortamlar", "Kitap okuma", "Sağlıklı yaşam", "Empati ve psikoloji"]
+  },
+  "progress": {
+    "discovered": [],
+    "percentage": 0
+  },
+  "conversationStyle": {
+    "tone": "Nazik, profesyonel, samimi, destekleyici, sıcak",
+    "vocabulary": "Nazik ve özenli dil, empatik ifadeler",
+    "examplePhrases": ["Geçmiş olsun", "İyi dinlen", "Anlıyorum seni", "Her şey yoluna girecek", "Yanındayım 💕"]
+  }
+}
