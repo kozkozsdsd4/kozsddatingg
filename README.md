@@ -30,3 +30,8 @@ Bu repo, yerel çalışan bir dating-sim için başlangıç verilerini içerir:
 - 150 özellik (traits) kategorilere ayrılmış
 - 30 dil desteği iskeleti
 - AI modüler arayüzü (varsayılan: Gemini Nano)
+
+## Raspberry Pi Desteği
+
+Bu proje Raspberry Pi üzerinde çalıştırılabilir. Raspberry Pi 5'te SSD kullanımı ve sorun giderme için:
+- 📖 [Raspberry Pi SSD Kurtarma Rehberi](RASPBERRY_PI_RECOVERY.md) - SSD tanınmama, dosya kurtarma ve SD kart yedekleme çözümleri
